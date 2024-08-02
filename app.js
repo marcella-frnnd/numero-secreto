@@ -9,7 +9,7 @@ let tentativas = 1;
 //let paragrafo = document.querySelector('p');
 //paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
-//evoluindo o código acima para funções
+//evoluindo o código acima para funçõe
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
